@@ -1,0 +1,16 @@
+                       precision    recall  f1-score   support
+
+              Billing       0.96      0.98      0.97       336
+Filters & Consumables       0.93      0.93      0.93       289
+      Installs & Demo       0.94      0.98      0.96       235
+       Product Advice       0.94      0.96      0.95       225
+              Repairs       0.98      0.94      0.96       624
+Returns & Replacement       0.95      0.94      0.94       254
+      Warranty Claims       0.93      0.95      0.94       202
+
+             accuracy                           0.95      2165
+            macro avg       0.95      0.95      0.95      2165
+         weighted avg       0.95      0.95      0.95      2165
+
+Accuracy: 0.95196
+Macro F1: 0.94999

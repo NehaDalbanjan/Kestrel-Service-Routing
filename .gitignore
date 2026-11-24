@@ -1,0 +1,16 @@
+# Private datasets
+data/
+
+# Python environments
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# Temporary files
+*.log
+.DS_Store
